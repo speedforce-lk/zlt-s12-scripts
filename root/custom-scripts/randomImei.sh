@@ -1,6 +1,6 @@
 #!/bin/sh
 # This will generate random IMEI and change IMEI
-# It needs the changeImei.sh file and in the same directory
+# It needs the changeImei.sh file and should be in the same directory
 
 
 IMEI=35672811
