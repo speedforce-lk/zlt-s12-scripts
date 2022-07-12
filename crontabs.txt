@@ -1,0 +1,16 @@
+## sample crontab configuration, command to edit crontab: 'crontab -e'
+
+# Put to sleep every 12 AM
+00 00 * * * /root/custom-scripts/sleep.sh
+
+# Random IMEI every 1 AM
+00 01 * * * /root/custom-scripts/randomImei.sh
+
+# Reboot every  5 AM
+00 05 * * * reboot
+
+# Turn on led every 6 AM
+00 05 * * * /root/custom-scripts/turn-on-led.sh
+
+# Turn off led every 6 PM
+00 18 * * * /root/custom-scripts/turn-off-led.sh
