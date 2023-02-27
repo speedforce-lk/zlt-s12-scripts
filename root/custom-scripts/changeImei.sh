@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # to change IMEI run the file and IMEI number as argument see example below
-# ./changeImei.sh 356256873546712
+# ./changeImei.sh 356256873546711
 
 # verifiying if IMEI is valid
 echo "${1}" | grep -q '[^0-9]'
