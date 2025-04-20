@@ -4,6 +4,6 @@ To be able to run the script add permission to execute first 'chmod +x filename.
 
 
 
-# Notice f
+# Notice
 # ⚠️ Do anything at your own risk.
 # ⚠️ I am not responsible for any router bricking cases.
